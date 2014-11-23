@@ -4,15 +4,27 @@
 		"anchor": "deficitmodel",
 		"language": "en",
 		"explanation": "The deficit model is &hellip;",
-		"citation":[
-			{"link":[
-				{"title": "The deficit model (John Smith)"},
-				{"url": "http://en.wikipedia.org"}
-				]},
-			{"link":[
-				{"title": "The deficit model strikes back (Jane Smith)"},
-				{"url": "http://en.wikipedia.org"}
-				]}
+		"citation": [
+			{
+				"link": [
+					{
+						"linkdescrip": "The deficit model (John Smith)"
+					},
+					{
+						"url": "http://en.wikipedia.org"
+					}
+				]
+			},
+			{
+				"link": [
+					{
+						"linkdescrip": "The deficit model strikes back (Jane Smith)"
+					},
+					{
+						"url": "http://en.wikipedia.org"
+					}
+				]
+			}
 		]
 	},
 	{
@@ -20,15 +32,27 @@
 		"anchor": "engagement",
 		"language": "en",
 		"explanation": "Engagement, also known as public engagement, is &hellip;",
-		"citation":[
-			{"link":[
-				{"title": "Public engagement (Jane Smith)"},
-				{"url": "http://en.wikipedia.org"}
-				]},
-			{"link":[
-				{"title": "Moar engagement pls (John Smith)"},
-				{"url": "http://en.wikipedia.org"}
-				]}
+		"citation": [
+			{
+				"link": [
+					{
+						"linkdescrip": "Public engagement (Jane Smith)"
+					},
+					{
+						"url": "http://en.wikipedia.org"
+					}
+				]
+			},
+			{
+				"link":[
+					{
+						"linkdescrip": "Moar engagement pls (John Smith)"
+					},
+					{
+						"url": "http://en.wikipedia.org"
+					}
+				]
+			}
 		]
 	}
 ]
