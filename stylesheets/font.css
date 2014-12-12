@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Chivo';
+	font-style: normal;
+	font-weight: 900;
+	src:
+		local('Chivo Black'),
+		local('Chivo-Black'),
+		/* from  */
+		url('Chivo_900.eot?#iefix') format('embedded-opentype'),
+		/* from http://fonts.gstatic.com/s/chivo/v7/uOXSiKkEygwkvR4cgUzOz_esZW2xOQ-xsNqO47m55DA.woff */
+		url('Chivo_900.woff') format('woff'),
+		/* from http://fonts.gstatic.com/s/chivo/v7/YWbtYk2MoHeFgZxEOX7DnvesZW2xOQ-xsNqO47m55DA.ttf */
+		url('Chivo_900.ttf') format('truetype'),
+		/* from http://fonts.gstatic.com/l/font?kit=TqcQ1ufkH_NH12HYcmZrw_esZW2xOQ-xsNqO47m55DA#Chivo */
+		url('Chivo_900.svg#Chivo') format('svg');
+}
